@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Fragments of BadRTXXX are archived here, including Psy-World; the governing system is being incrementally woven into the interstice of realities."
 author_profile: true
 redirect_from: 
   - /about/
